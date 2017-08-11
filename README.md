@@ -1,4 +1,4 @@
-# prolog-nQueens-and-bucarest
+﻿# prolog-nQueens-and-bucareste
 
 Trabalho da disciplina Paradigma de Programação Lógica e Funcional
 
